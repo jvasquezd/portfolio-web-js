@@ -69,15 +69,19 @@
 }
 
 .skills__css{
-    width: 80%;
+    width: 60%;
+}
+
+.skills__js {
+    width: 60%;
 }
 
 .skills__react{
-    width: 80%;
+    width:45%;
 }
 
 .skills__java{
-    width: 90%;
+    width: 60%;
 }
 
 .skills__python{
@@ -85,23 +89,23 @@
 }
 
 .skills__oracle{
-    width: 90%;
+    width: 50%;
 }
 
 .skills__mysql{
-    width: 90%;
+    width: 50%;
 }
 
-.skills__figma{
-    width: 90%;
+.skills__ads{
+    width: 50%;
 }
 
-.skills__sketch{
-    width: 65%;
+.skills__xml{
+    width: 45%;
 }
 
-.skills__photoshop{
-    width: 90%;
+.skills__mvp{
+    width: 40%;
 }
 
 .skills__close .skills__list{
