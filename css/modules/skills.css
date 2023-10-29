@@ -97,7 +97,7 @@
 }
 
 .skills__ads{
-    width: 50%;
+    width: 100%;
 }
 
 .skills__xml{
@@ -105,6 +105,10 @@
 }
 
 .skills__mvp{
+    width: 40%;
+}
+
+.skills__kotlin{
     width: 40%;
 }
 
